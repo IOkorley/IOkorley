@@ -1,6 +1,6 @@
 # Hi, I'm Ishmaelina Okorley
 
-Computer Science student, researcher, and builder interested in dynamic systems, interpretable machine learning, healthcare AI, and mechanistic reasoning.
+Computer Science student researching interpretable machine learning, dynamic systems, and mechanistic reasoning.
 
 ---
 
